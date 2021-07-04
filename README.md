@@ -1,0 +1,27 @@
+# Tugas-Akhir-Petruk
+Tugas akhir Kasir sederhana
+
+
+PERULANGAN
+LINE 26 | 39 | 48
+
+VARIABLE 
+LINE 14 
+
+TIPE DATA 
+LINE 14
+
+PERCABANGAN 
+LINE 52
+
+FUNGSI
+LINE 6
+
+ARRAY 
+LINE 15
+
+INPUT
+LINE 23 | 30 DLL
+
+OUTPUT 
+LINE 18 | DKK
